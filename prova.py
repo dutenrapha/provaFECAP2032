@@ -1,6 +1,6 @@
 #Sustituia XXXX pelo seu nome
 
-ALUNO = 'Pedro Augusto da Silva Macedo'
+ALUNO = 'Raíssa Menezes de Oliveira e Silva'
 
 def questaoDeGit():
   print(f"{ALUNO} conseguei fazer a questão de git")
