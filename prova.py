@@ -3,6 +3,6 @@
 ALUNO = 'Pedro Augusto da Silva Macedo'
 
 def questaoDeGit():
-  print(f"{ALUNO} conseguei fazer a questão de git")
+  print(f"{ALUNO} consegui fazer a questão de git")
 
 questaoDeGit()
