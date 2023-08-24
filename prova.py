@@ -1,6 +1,6 @@
 #Sustituia XXXX pelo seu nome
 
-ALUNO = 'Lucas Zappia Bovani'
+ALUNO = 'Vitor Pantarotto'
 
 
 def questaoDeGit():
