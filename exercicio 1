@@ -1,0 +1,8 @@
+#Sustituia XXXX pelo seu nome
+
+ALUNO = 'Guilherme_de_Santi'
+
+def questaoDeGit():
+  print(f"{ALUNO} conseguei fazer a questão de git")
+
+questaoDeGit()
